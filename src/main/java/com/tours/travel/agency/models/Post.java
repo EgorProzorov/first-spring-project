@@ -1,4 +1,4 @@
-package models;
+package com.tours.travel.agency.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
